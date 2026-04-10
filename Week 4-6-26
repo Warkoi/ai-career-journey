@@ -1,1 +1,12 @@
+Lessons Learned
+- Dealing with system limitations that restrict connectivity to other tools has been a challenge. For ticket analysis, being limited to descriptions, labels, and comments means the AI delivers solid results — but there's clear potential for more with broader data access.
+- One approach that's made a noticeable difference is Socratic questioning. Continuously asking yourself what you're trying to build and translating those answers into prompt language adds up fast — it's been one of the biggest drivers of prompt improvement so far.
 
+Tools Used
+- Rovo
+- Rovo Dev
+
+What worked, what didn't
+
+
+Useful Prompts
