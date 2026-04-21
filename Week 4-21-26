@@ -1,12 +1,17 @@
 Lessons Learned
 - Dealing with system limitations that restrict connectivity to other tools has been a challenge. For ticket analysis, being limited to descriptions, labels, and comments means the AI delivers solid results — but there's clear potential for more with broader data access.
 - One approach that's made a noticeable difference is Socratic questioning. Continuously asking yourself what you're trying to build and translating those answers into prompt language adds up fast — it's been one of the biggest drivers of prompt improvement so far.
+- Users are expecting AI to look like ChatGPT or Claude interface. They do not see how it works behind the scenes and in existing tools. Its another layer of enablement that is needed to convince them the tools I am making are different. 
 
 Tools Used
 - Rovo
 - Rovo Dev
+- Claude Design
 
 What worked, what didn't
-
+- Worked
+  - Connecting to Databricks using Rovo Dev. Was very easy to do once the permissions were set. 
+- Didnt Work
+  - The deal registration data is not live which is a problem as in order for the team to use the Agent efficiently the data needs to be up to date. 
 
 Useful Prompts
